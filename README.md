@@ -105,7 +105,7 @@ It can be integrated into the response logging pipeline to tag AI-generated mess
 
 ### 🔒 License & Usage
 
-> **This project is confidential and intended for internal use by Japeto Ltd. Not licensed for external or public distribution.**
+> **This project is confidential and intended for internal use by Japeto Ltd and Alif Sathar. Not licensed for external or public distribution.**
 
 ---
 
