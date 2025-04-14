@@ -73,15 +73,15 @@ Low-confidence predictions (<50%) were flagged for manual review to improve qual
 > Below are the screenshots of key stages in the pipeline:
 
 <p align="center">
-  <img src="screenshots/data-preprocessing.png" width="600" alt="Data Preprocessing Step"/>
+  <img src="Screenshots/data-preprocessing.png" width="600" alt="Data Preprocessing Step"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/model-evaluation.png" width="600" alt="Evaluation Results"/>
+  <img src="Screenshots/model-evaluation.png" width="600" alt="Evaluation Results"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/confusion-matrix.png" width="600" alt="Confusion Matrix"/>
+  <img src="Screenshots/confusion-matrix.png" width="600" alt="Confusion Matrix"/>
 </p>
 
 ---
