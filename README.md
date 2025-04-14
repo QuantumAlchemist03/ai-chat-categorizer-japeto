@@ -70,7 +70,7 @@ Low-confidence predictions (<50%) were flagged for manual review to improve qual
 
 ### 🖼️ Screenshots
 
-> > Below are the screenshots of key stages in the pipeline:
+> Below are the screenshots of key stages in the pipeline:
 
 <p align="center">
   <img src="screenshots/data-preprocessing.png" width="600" alt="Data Preprocessing Step"/>
